@@ -1,2 +1,2 @@
 # Big-Data-Project
-Analysizing UK accident data 2021 using python &amp; SQL
+Analysizing UK accident data 2021 using python and SQL &amp; SQL
